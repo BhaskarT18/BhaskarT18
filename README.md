@@ -1,4 +1,4 @@
-<img width="50%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%;" align="middle">
+<img width="100%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%;" align="middle">
 
 
 <h1 align="center">Hi 👋,Nice to see You I'm Bhaskar</h1>
