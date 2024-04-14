@@ -1,15 +1,8 @@
-<img width="100%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%;" align="middle">
+<img width="100%" height="auto" src="https://camo.githubusercontent.com/f275ae32f6cfabfece59997b7d38da3e2d9902bc93a9a5756ce66f76e2ba3c62/68747470733a2f2f692e696d6775722e636f6d2f6958754c3148472e706e67" data-canonical-src="https://i.imgur.com/iXuL1HG.png" style="max-width: 100%;">
 
 
 <h1 align="center">Hi 👋,Nice to see You I'm Bhaskar</h1>
 <h3 align="center">|| A passionate full Stack developer from India ||</h3>
-
-
-
-
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskart18&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskart18" /> </p>
