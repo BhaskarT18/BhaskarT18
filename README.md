@@ -1,6 +1,16 @@
+<img width="50%" height="auto" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 50%;" align="middle">
+
+
 <h1 align="center">Hi 👋,Nice to see You I'm Bhaskar</h1>
 <h3 align="center">|| A passionate full Stack developer from India ||</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
+
+
+
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskart18&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskart18" /> </p>
 
