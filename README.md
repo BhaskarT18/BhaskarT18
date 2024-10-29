@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskart18&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskart18" /> </p>
 
-- 🔭 I’m a **Final Year Student (CSE)**
+- 🔭 I’m a **Full Stack Develop**
 
 - 🌱 I’m currently learning **Full Stack Java, Spring Boot, Hibernate**
 
