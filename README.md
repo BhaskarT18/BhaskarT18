@@ -9,11 +9,11 @@
 
 - 🔭 I’m a **full Stack developer**
 
-- 🌱 I’m currently learning **Full Stack Java, Spring Boot, Hibernate**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Any Project**
 
-- 🤝 I’m looking for internship **Any Development**
+- 🤝 I’m ready to contribute on **Any Development**
 
 - 📫 How to reach me **bhaskartikale@gmail.com**
 
